@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+easyocr
+pyserial
+torch
+torchvision
